@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Renner" script="addoner.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100" />
+	<look type="1271" head="77" body="81" legs="79" feet="95" addons="3" mount="376" />
+
+</npc>
